@@ -2,7 +2,7 @@
 ### Minhas redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_ziki)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTu8yJzBs6OySc10j2cMbhg)
 
-# Conta Perdida/Perdi o acesso:
+### Conta Perdida/Perdi o acesso:
 (https://github.com/KiraZIKI/)
 
 
