@@ -2,6 +2,10 @@
 ### Minhas redes sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_ziki)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTu8yJzBs6OySc10j2cMbhg)
 
+#Conta Perdida:
+[!(https://github.com/KiraZIKI/)]
+
+
 ## Um dev em eterno aprendizado. 👾🐞 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZiki&layout=pie)](https://github.com/KiraZiki/github-readme-stats$theme=radical)
 ![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraZiki&show_icons=true&theme=radical)
