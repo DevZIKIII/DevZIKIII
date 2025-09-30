@@ -7,8 +7,8 @@
 
 
 ## Um dev em eterno aprendizado. 👾🐞 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZiki&layout=pie)](https://github.com/KiraZiki/github-readme-stats$theme=radical)
-![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiraZiki&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevZIKIII&layout=pie)](https://github.com/DevZIKIII/github-readme-stats$theme=radical)
+![Dev_ZIKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevZIKIII&show_icons=true&theme=radical)
 ### Habilidades que domino
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
