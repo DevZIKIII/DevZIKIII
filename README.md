@@ -13,11 +13,7 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevZIKIII&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas Gerais">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZIKIII&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=DevZIKIII&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições">
-  </a>
 </p>
 
 ---
@@ -29,7 +25,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZIKIII&repo=ChatbotDevSafe&theme=tokyonight" alt="Card do Projeto ChatbotDevSafe">
   </a>
   <a href="https://github.com/DevZIKIII/Tsukuyomi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZIKIII&repo=Tsukuyomi&theme=tokyonight" alt="Card do Projeto Tsukuyomi">
+    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=DevZIKIII&repo=Tsukuyomi&theme=tokyonight](https://tsukuyomi-store.vercel.app/)" alt="Card do Projeto Tsukuyomi">
   </a>
 </p>
 
