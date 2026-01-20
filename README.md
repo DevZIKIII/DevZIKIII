@@ -24,8 +24,8 @@
   <a href="https://github.com/DevZIKIII/ChatbotDevSafe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZIKIII&repo=ChatbotDevSafe&theme=tokyonight" alt="Card do Projeto ChatbotDevSafe">
   </a>
-  <a href="https://github.com/DevZIKIII/Tsukuyomi">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=DevZIKIII&repo=Tsukuyomi&theme=tokyonight](https://tsukuyomi-store.vercel.app/)" alt="Card do Projeto Tsukuyomi">
+  <a href="https://tsukuyomi-store.vercel.app">
+    Link Tsukuyomi Hospedado!!
   </a>
 </p>
 
